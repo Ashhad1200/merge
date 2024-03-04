@@ -9,585 +9,319 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = dm
 build_property.RootNamespace = dm
-build_property.ProjectDir = C:\Users\Huzaifa\Desktop\WEB\C#\dm\
+build_property.ProjectDir = C:\Users\ashha\OneDrive\Desktop\merge\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Huzaifa\Desktop\WEB\C#\dm
+build_property.MSBuildProjectDirectory = C:\Users\ashha\OneDrive\Desktop\merge
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/Areas/Identity/Pages/Account/AccessDenied.cshtml]
+[C:/Users/ashha/OneDrive/Desktop/merge/Areas/Identity/Pages/Account/AccessDenied.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxBY2Nlc3NEZW5pZWQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/Areas/Identity/Pages/Account/ConfirmEmail.cshtml]
+[C:/Users/ashha/OneDrive/Desktop/merge/Areas/Identity/Pages/Account/ConfirmEmail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxDb25maXJtRW1haWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/Areas/Identity/Pages/Account/ConfirmEmailChange.cshtml]
+[C:/Users/ashha/OneDrive/Desktop/merge/Areas/Identity/Pages/Account/ConfirmEmailChange.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxDb25maXJtRW1haWxDaGFuZ2UuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/Areas/Identity/Pages/Account/ExternalLogin.cshtml]
+[C:/Users/ashha/OneDrive/Desktop/merge/Areas/Identity/Pages/Account/ExternalLogin.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxFeHRlcm5hbExvZ2luLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/Areas/Identity/Pages/Account/ForgotPassword.cshtml]
+[C:/Users/ashha/OneDrive/Desktop/merge/Areas/Identity/Pages/Account/ForgotPassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxGb3Jnb3RQYXNzd29yZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/Areas/Identity/Pages/Account/ForgotPasswordConfirmation.cshtml]
+[C:/Users/ashha/OneDrive/Desktop/merge/Areas/Identity/Pages/Account/ForgotPasswordConfirmation.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxGb3Jnb3RQYXNzd29yZENvbmZpcm1hdGlvbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/Areas/Identity/Pages/Account/Lockout.cshtml]
+[C:/Users/ashha/OneDrive/Desktop/merge/Areas/Identity/Pages/Account/Lockout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2Nrb3V0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/Areas/Identity/Pages/Account/Login.cshtml]
+[C:/Users/ashha/OneDrive/Desktop/merge/Areas/Identity/Pages/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/Areas/Identity/Pages/Account/LoginWith2fa.cshtml]
+[C:/Users/ashha/OneDrive/Desktop/merge/Areas/Identity/Pages/Account/LoginWith2fa.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbldpdGgyZmEuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/Areas/Identity/Pages/Account/LoginWithRecoveryCode.cshtml]
+[C:/Users/ashha/OneDrive/Desktop/merge/Areas/Identity/Pages/Account/LoginWithRecoveryCode.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbldpdGhSZWNvdmVyeUNvZGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/Areas/Identity/Pages/Account/Logout.cshtml]
+[C:/Users/ashha/OneDrive/Desktop/merge/Areas/Identity/Pages/Account/Logout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/Areas/Identity/Pages/Account/Manage/ChangePassword.cshtml]
+[C:/Users/ashha/OneDrive/Desktop/merge/Areas/Identity/Pages/Account/Manage/ChangePassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcQ2hhbmdlUGFzc3dvcmQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/Areas/Identity/Pages/Account/Manage/DeletePersonalData.cshtml]
+[C:/Users/ashha/OneDrive/Desktop/merge/Areas/Identity/Pages/Account/Manage/DeletePersonalData.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcRGVsZXRlUGVyc29uYWxEYXRhLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/Areas/Identity/Pages/Account/Manage/Disable2fa.cshtml]
+[C:/Users/ashha/OneDrive/Desktop/merge/Areas/Identity/Pages/Account/Manage/Disable2fa.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcRGlzYWJsZTJmYS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/Areas/Identity/Pages/Account/Manage/DownloadPersonalData.cshtml]
+[C:/Users/ashha/OneDrive/Desktop/merge/Areas/Identity/Pages/Account/Manage/DownloadPersonalData.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcRG93bmxvYWRQZXJzb25hbERhdGEuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/Areas/Identity/Pages/Account/Manage/Email.cshtml]
+[C:/Users/ashha/OneDrive/Desktop/merge/Areas/Identity/Pages/Account/Manage/Email.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcRW1haWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/Areas/Identity/Pages/Account/Manage/EnableAuthenticator.cshtml]
+[C:/Users/ashha/OneDrive/Desktop/merge/Areas/Identity/Pages/Account/Manage/EnableAuthenticator.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcRW5hYmxlQXV0aGVudGljYXRvci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/Areas/Identity/Pages/Account/Manage/ExternalLogins.cshtml]
+[C:/Users/ashha/OneDrive/Desktop/merge/Areas/Identity/Pages/Account/Manage/ExternalLogins.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcRXh0ZXJuYWxMb2dpbnMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/Areas/Identity/Pages/Account/Manage/GenerateRecoveryCodes.cshtml]
+[C:/Users/ashha/OneDrive/Desktop/merge/Areas/Identity/Pages/Account/Manage/GenerateRecoveryCodes.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcR2VuZXJhdGVSZWNvdmVyeUNvZGVzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/Areas/Identity/Pages/Account/Manage/Index.cshtml]
+[C:/Users/ashha/OneDrive/Desktop/merge/Areas/Identity/Pages/Account/Manage/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/Areas/Identity/Pages/Account/Manage/PersonalData.cshtml]
+[C:/Users/ashha/OneDrive/Desktop/merge/Areas/Identity/Pages/Account/Manage/PersonalData.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcUGVyc29uYWxEYXRhLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/Areas/Identity/Pages/Account/Manage/ResetAuthenticator.cshtml]
+[C:/Users/ashha/OneDrive/Desktop/merge/Areas/Identity/Pages/Account/Manage/ResetAuthenticator.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcUmVzZXRBdXRoZW50aWNhdG9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/Areas/Identity/Pages/Account/Manage/SetPassword.cshtml]
+[C:/Users/ashha/OneDrive/Desktop/merge/Areas/Identity/Pages/Account/Manage/SetPassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcU2V0UGFzc3dvcmQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/Areas/Identity/Pages/Account/Manage/ShowRecoveryCodes.cshtml]
+[C:/Users/ashha/OneDrive/Desktop/merge/Areas/Identity/Pages/Account/Manage/ShowRecoveryCodes.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcU2hvd1JlY292ZXJ5Q29kZXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/Areas/Identity/Pages/Account/Manage/TwoFactorAuthentication.cshtml]
+[C:/Users/ashha/OneDrive/Desktop/merge/Areas/Identity/Pages/Account/Manage/TwoFactorAuthentication.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcVHdvRmFjdG9yQXV0aGVudGljYXRpb24uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/Areas/Identity/Pages/Account/Manage/_Layout.cshtml]
+[C:/Users/ashha/OneDrive/Desktop/merge/Areas/Identity/Pages/Account/Manage/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX0xheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/Areas/Identity/Pages/Account/Manage/_ManageNav.cshtml]
+[C:/Users/ashha/OneDrive/Desktop/merge/Areas/Identity/Pages/Account/Manage/_ManageNav.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX01hbmFnZU5hdi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/Areas/Identity/Pages/Account/Manage/_StatusMessage.cshtml]
+[C:/Users/ashha/OneDrive/Desktop/merge/Areas/Identity/Pages/Account/Manage/_StatusMessage.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX1N0YXR1c01lc3NhZ2UuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/Areas/Identity/Pages/Account/Manage/_ViewImports.cshtml]
+[C:/Users/ashha/OneDrive/Desktop/merge/Areas/Identity/Pages/Account/Manage/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/Areas/Identity/Pages/Account/Register.cshtml]
+[C:/Users/ashha/OneDrive/Desktop/merge/Areas/Identity/Pages/Account/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/Areas/Identity/Pages/Account/RegisterConfirmation.cshtml]
+[C:/Users/ashha/OneDrive/Desktop/merge/Areas/Identity/Pages/Account/RegisterConfirmation.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3RlckNvbmZpcm1hdGlvbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/Areas/Identity/Pages/Account/ResendEmailConfirmation.cshtml]
+[C:/Users/ashha/OneDrive/Desktop/merge/Areas/Identity/Pages/Account/ResendEmailConfirmation.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZXNlbmRFbWFpbENvbmZpcm1hdGlvbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/Areas/Identity/Pages/Account/ResetPassword.cshtml]
+[C:/Users/ashha/OneDrive/Desktop/merge/Areas/Identity/Pages/Account/ResetPassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZXNldFBhc3N3b3JkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/Areas/Identity/Pages/Account/ResetPasswordConfirmation.cshtml]
+[C:/Users/ashha/OneDrive/Desktop/merge/Areas/Identity/Pages/Account/ResetPasswordConfirmation.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZXNldFBhc3N3b3JkQ29uZmlybWF0aW9uLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/Areas/Identity/Pages/Account/_StatusMessage.cshtml]
+[C:/Users/ashha/OneDrive/Desktop/merge/Areas/Identity/Pages/Account/_StatusMessage.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfU3RhdHVzTWVzc2FnZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/Areas/Identity/Pages/Account/_ViewImports.cshtml]
+[C:/Users/ashha/OneDrive/Desktop/merge/Areas/Identity/Pages/Account/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfVmlld0ltcG9ydHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/Areas/Identity/Pages/Error.cshtml]
+[C:/Users/ashha/OneDrive/Desktop/merge/Areas/Identity/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
+[C:/Users/ashha/OneDrive/Desktop/merge/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/Areas/Identity/Pages/_ViewImports.cshtml]
+[C:/Users/ashha/OneDrive/Desktop/merge/Areas/Identity/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/Areas/Identity/Pages/_ViewStart.cshtml]
+[C:/Users/ashha/OneDrive/Desktop/merge/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/dm/Areas/Identity/Pages/Account/AccessDenied.cshtml]
-build_metadata.AdditionalFiles.TargetPath = ZG1cQXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxBY2Nlc3NEZW5pZWQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/dm/Areas/Identity/Pages/Account/ConfirmEmail.cshtml]
-build_metadata.AdditionalFiles.TargetPath = ZG1cQXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxDb25maXJtRW1haWwuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/dm/Areas/Identity/Pages/Account/ConfirmEmailChange.cshtml]
-build_metadata.AdditionalFiles.TargetPath = ZG1cQXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxDb25maXJtRW1haWxDaGFuZ2UuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/dm/Areas/Identity/Pages/Account/ExternalLogin.cshtml]
-build_metadata.AdditionalFiles.TargetPath = ZG1cQXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxFeHRlcm5hbExvZ2luLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/dm/Areas/Identity/Pages/Account/ForgotPassword.cshtml]
-build_metadata.AdditionalFiles.TargetPath = ZG1cQXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxGb3Jnb3RQYXNzd29yZC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/dm/Areas/Identity/Pages/Account/ForgotPasswordConfirmation.cshtml]
-build_metadata.AdditionalFiles.TargetPath = ZG1cQXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxGb3Jnb3RQYXNzd29yZENvbmZpcm1hdGlvbi5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/dm/Areas/Identity/Pages/Account/Lockout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = ZG1cQXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2Nrb3V0LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/dm/Areas/Identity/Pages/Account/Login.cshtml]
-build_metadata.AdditionalFiles.TargetPath = ZG1cQXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbi5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/dm/Areas/Identity/Pages/Account/LoginWith2fa.cshtml]
-build_metadata.AdditionalFiles.TargetPath = ZG1cQXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbldpdGgyZmEuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/dm/Areas/Identity/Pages/Account/LoginWithRecoveryCode.cshtml]
-build_metadata.AdditionalFiles.TargetPath = ZG1cQXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbldpdGhSZWNvdmVyeUNvZGUuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/dm/Areas/Identity/Pages/Account/Logout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = ZG1cQXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dvdXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/dm/Areas/Identity/Pages/Account/Manage/ChangePassword.cshtml]
-build_metadata.AdditionalFiles.TargetPath = ZG1cQXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcQ2hhbmdlUGFzc3dvcmQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/dm/Areas/Identity/Pages/Account/Manage/DeletePersonalData.cshtml]
-build_metadata.AdditionalFiles.TargetPath = ZG1cQXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcRGVsZXRlUGVyc29uYWxEYXRhLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/dm/Areas/Identity/Pages/Account/Manage/Disable2fa.cshtml]
-build_metadata.AdditionalFiles.TargetPath = ZG1cQXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcRGlzYWJsZTJmYS5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/dm/Areas/Identity/Pages/Account/Manage/DownloadPersonalData.cshtml]
-build_metadata.AdditionalFiles.TargetPath = ZG1cQXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcRG93bmxvYWRQZXJzb25hbERhdGEuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/dm/Areas/Identity/Pages/Account/Manage/Email.cshtml]
-build_metadata.AdditionalFiles.TargetPath = ZG1cQXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcRW1haWwuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/dm/Areas/Identity/Pages/Account/Manage/EnableAuthenticator.cshtml]
-build_metadata.AdditionalFiles.TargetPath = ZG1cQXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcRW5hYmxlQXV0aGVudGljYXRvci5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/dm/Areas/Identity/Pages/Account/Manage/ExternalLogins.cshtml]
-build_metadata.AdditionalFiles.TargetPath = ZG1cQXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcRXh0ZXJuYWxMb2dpbnMuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/dm/Areas/Identity/Pages/Account/Manage/GenerateRecoveryCodes.cshtml]
-build_metadata.AdditionalFiles.TargetPath = ZG1cQXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcR2VuZXJhdGVSZWNvdmVyeUNvZGVzLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/dm/Areas/Identity/Pages/Account/Manage/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = ZG1cQXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcSW5kZXguY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/dm/Areas/Identity/Pages/Account/Manage/PersonalData.cshtml]
-build_metadata.AdditionalFiles.TargetPath = ZG1cQXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcUGVyc29uYWxEYXRhLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/dm/Areas/Identity/Pages/Account/Manage/ResetAuthenticator.cshtml]
-build_metadata.AdditionalFiles.TargetPath = ZG1cQXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcUmVzZXRBdXRoZW50aWNhdG9yLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/dm/Areas/Identity/Pages/Account/Manage/SetPassword.cshtml]
-build_metadata.AdditionalFiles.TargetPath = ZG1cQXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcU2V0UGFzc3dvcmQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/dm/Areas/Identity/Pages/Account/Manage/ShowRecoveryCodes.cshtml]
-build_metadata.AdditionalFiles.TargetPath = ZG1cQXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcU2hvd1JlY292ZXJ5Q29kZXMuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/dm/Areas/Identity/Pages/Account/Manage/TwoFactorAuthentication.cshtml]
-build_metadata.AdditionalFiles.TargetPath = ZG1cQXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcVHdvRmFjdG9yQXV0aGVudGljYXRpb24uY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/dm/Areas/Identity/Pages/Account/Manage/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = ZG1cQXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX0xheW91dC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/dm/Areas/Identity/Pages/Account/Manage/_ManageNav.cshtml]
-build_metadata.AdditionalFiles.TargetPath = ZG1cQXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX01hbmFnZU5hdi5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/dm/Areas/Identity/Pages/Account/Manage/_StatusMessage.cshtml]
-build_metadata.AdditionalFiles.TargetPath = ZG1cQXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX1N0YXR1c01lc3NhZ2UuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/dm/Areas/Identity/Pages/Account/Manage/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = ZG1cQXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/dm/Areas/Identity/Pages/Account/Register.cshtml]
-build_metadata.AdditionalFiles.TargetPath = ZG1cQXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/dm/Areas/Identity/Pages/Account/RegisterConfirmation.cshtml]
-build_metadata.AdditionalFiles.TargetPath = ZG1cQXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3RlckNvbmZpcm1hdGlvbi5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/dm/Areas/Identity/Pages/Account/ResendEmailConfirmation.cshtml]
-build_metadata.AdditionalFiles.TargetPath = ZG1cQXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZXNlbmRFbWFpbENvbmZpcm1hdGlvbi5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/dm/Areas/Identity/Pages/Account/ResetPassword.cshtml]
-build_metadata.AdditionalFiles.TargetPath = ZG1cQXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZXNldFBhc3N3b3JkLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/dm/Areas/Identity/Pages/Account/ResetPasswordConfirmation.cshtml]
-build_metadata.AdditionalFiles.TargetPath = ZG1cQXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZXNldFBhc3N3b3JkQ29uZmlybWF0aW9uLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/dm/Areas/Identity/Pages/Account/_StatusMessage.cshtml]
-build_metadata.AdditionalFiles.TargetPath = ZG1cQXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfU3RhdHVzTWVzc2FnZS5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/dm/Areas/Identity/Pages/Account/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = ZG1cQXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfVmlld0ltcG9ydHMuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/dm/Areas/Identity/Pages/Error.cshtml]
-build_metadata.AdditionalFiles.TargetPath = ZG1cQXJlYXNcSWRlbnRpdHlcUGFnZXNcRXJyb3IuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/dm/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = ZG1cQXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/dm/Areas/Identity/Pages/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = ZG1cQXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/dm/Areas/Identity/Pages/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = ZG1cQXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/dm/Views/Home/about.cshtml]
-build_metadata.AdditionalFiles.TargetPath = ZG1cVmlld3NcSG9tZVxhYm91dC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/dm/Views/Home/Administration.cshtml]
-build_metadata.AdditionalFiles.TargetPath = ZG1cVmlld3NcSG9tZVxBZG1pbmlzdHJhdGlvbi5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/dm/Views/Home/Auditors.cshtml]
-build_metadata.AdditionalFiles.TargetPath = ZG1cVmlld3NcSG9tZVxBdWRpdG9ycy5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/dm/Views/Home/contact.cshtml]
-build_metadata.AdditionalFiles.TargetPath = ZG1cVmlld3NcSG9tZVxjb250YWN0LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/dm/Views/Home/CustomerService.cshtml]
-build_metadata.AdditionalFiles.TargetPath = ZG1cVmlld3NcSG9tZVxDdXN0b21lclNlcnZpY2UuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/dm/Views/Home/Digitalmark.cshtml]
-build_metadata.AdditionalFiles.TargetPath = ZG1cVmlld3NcSG9tZVxEaWdpdGFsbWFyay5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/dm/Views/Home/HR.cshtml]
-build_metadata.AdditionalFiles.TargetPath = ZG1cVmlld3NcSG9tZVxIUi5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/dm/Views/Home/inbound.cshtml]
-build_metadata.AdditionalFiles.TargetPath = ZG1cVmlld3NcSG9tZVxpbmJvdW5kLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/dm/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = ZG1cVmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/dm/Views/Home/internetsecurity.cshtml]
-build_metadata.AdditionalFiles.TargetPath = ZG1cVmlld3NcSG9tZVxpbnRlcm5ldHNlY3VyaXR5LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/dm/Views/Home/outbound.cshtml]
-build_metadata.AdditionalFiles.TargetPath = ZG1cVmlld3NcSG9tZVxvdXRib3VuZC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/dm/Views/Home/portfolio.cshtml]
-build_metadata.AdditionalFiles.TargetPath = ZG1cVmlld3NcSG9tZVxwb3J0Zm9saW8uY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/dm/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = ZG1cVmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/dm/Views/Home/Seo.cshtml]
-build_metadata.AdditionalFiles.TargetPath = ZG1cVmlld3NcSG9tZVxTZW8uY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/dm/Views/Home/Service.cshtml]
-build_metadata.AdditionalFiles.TargetPath = ZG1cVmlld3NcSG9tZVxTZXJ2aWNlLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/dm/Views/Home/Services.cshtml]
-build_metadata.AdditionalFiles.TargetPath = ZG1cVmlld3NcSG9tZVxTZXJ2aWNlcy5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/dm/Views/Home/team.cshtml]
-build_metadata.AdditionalFiles.TargetPath = ZG1cVmlld3NcSG9tZVx0ZWFtLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/dm/Views/Home/technicalsupport.cshtml]
-build_metadata.AdditionalFiles.TargetPath = ZG1cVmlld3NcSG9tZVx0ZWNobmljYWxzdXBwb3J0LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/dm/Views/Home/telemarketing.cshtml]
-build_metadata.AdditionalFiles.TargetPath = ZG1cVmlld3NcSG9tZVx0ZWxlbWFya2V0aW5nLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/dm/Views/Home/training.cshtml]
-build_metadata.AdditionalFiles.TargetPath = ZG1cVmlld3NcSG9tZVx0cmFpbmluZy5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/dm/Views/Home/webdevelopment.cshtml]
-build_metadata.AdditionalFiles.TargetPath = ZG1cVmlld3NcSG9tZVx3ZWJkZXZlbG9wbWVudC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/dm/Views/Shared/Error.cshtml]
-build_metadata.AdditionalFiles.TargetPath = ZG1cVmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/dm/Views/Shared/_LoginPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = ZG1cVmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/dm/Views/Shared/_ValidationScriptsPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = ZG1cVmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/dm/Views/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = ZG1cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/dm/Views/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = ZG1cVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/Views/AdminPanel/Index.cshtml]
+[C:/Users/ashha/OneDrive/Desktop/merge/Views/AdminPanel/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5QYW5lbFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/Views/Blog/AddBlog.cshtml]
+[C:/Users/ashha/OneDrive/Desktop/merge/Views/Blog/AddBlog.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xBZGRCbG9nLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/Views/Blog/editBlog.cshtml]
+[C:/Users/ashha/OneDrive/Desktop/merge/Views/Blog/editBlog.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xlZGl0QmxvZy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/Views/Blog/Fetch.cshtml]
+[C:/Users/ashha/OneDrive/Desktop/merge/Views/Blog/Fetch.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xGZXRjaC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/Views/Employee/AddEmployee.cshtml]
+[C:/Users/ashha/OneDrive/Desktop/merge/Views/Employee/AddEmployee.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcQWRkRW1wbG95ZWUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/Views/Employee/EditEmployee.cshtml]
+[C:/Users/ashha/OneDrive/Desktop/merge/Views/Employee/EditEmployee.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcRWRpdEVtcGxveWVlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/Views/Employee/FetchEmployee.cshtml]
+[C:/Users/ashha/OneDrive/Desktop/merge/Views/Employee/FetchEmployee.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcRmV0Y2hFbXBsb3llZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/Views/Home/about.cshtml]
+[C:/Users/ashha/OneDrive/Desktop/merge/Views/Home/about.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxhYm91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/Views/Home/Administration.cshtml]
+[C:/Users/ashha/OneDrive/Desktop/merge/Views/Home/Administration.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBZG1pbmlzdHJhdGlvbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/Views/Home/Auditors.cshtml]
+[C:/Users/ashha/OneDrive/Desktop/merge/Views/Home/Auditors.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBdWRpdG9ycy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/Views/Home/contact.cshtml]
+[C:/Users/ashha/OneDrive/Desktop/merge/Views/Home/contact.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxjb250YWN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/Views/Home/CustomerService.cshtml]
+[C:/Users/ashha/OneDrive/Desktop/merge/Views/Home/CustomerService.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDdXN0b21lclNlcnZpY2UuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/Views/Home/Digitalmark.cshtml]
+[C:/Users/ashha/OneDrive/Desktop/merge/Views/Home/Digitalmark.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEaWdpdGFsbWFyay5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/Views/Home/HR.cshtml]
+[C:/Users/ashha/OneDrive/Desktop/merge/Views/Home/HR.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxIUi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/Views/Home/inbound.cshtml]
+[C:/Users/ashha/OneDrive/Desktop/merge/Views/Home/inbound.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxpbmJvdW5kLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/Views/Home/Index.cshtml]
+[C:/Users/ashha/OneDrive/Desktop/merge/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/Views/Home/internetsecurity.cshtml]
+[C:/Users/ashha/OneDrive/Desktop/merge/Views/Home/internetsecurity.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxpbnRlcm5ldHNlY3VyaXR5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/Views/Home/outbound.cshtml]
+[C:/Users/ashha/OneDrive/Desktop/merge/Views/Home/outbound.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxvdXRib3VuZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/Views/Home/portfolio.cshtml]
+[C:/Users/ashha/OneDrive/Desktop/merge/Views/Home/portfolio.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxwb3J0Zm9saW8uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/Views/Home/Privacy.cshtml]
+[C:/Users/ashha/OneDrive/Desktop/merge/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/Views/Home/Seo.cshtml]
+[C:/Users/ashha/OneDrive/Desktop/merge/Views/Home/Seo.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTZW8uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/Views/Home/Service.cshtml]
+[C:/Users/ashha/OneDrive/Desktop/merge/Views/Home/Service.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTZXJ2aWNlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/Views/Home/Services.cshtml]
+[C:/Users/ashha/OneDrive/Desktop/merge/Views/Home/Services.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTZXJ2aWNlcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/Views/Home/team.cshtml]
+[C:/Users/ashha/OneDrive/Desktop/merge/Views/Home/team.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVx0ZWFtLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/Views/Home/technicalsupport.cshtml]
+[C:/Users/ashha/OneDrive/Desktop/merge/Views/Home/technicalsupport.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVx0ZWNobmljYWxzdXBwb3J0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/Views/Home/telemarketing.cshtml]
+[C:/Users/ashha/OneDrive/Desktop/merge/Views/Home/telemarketing.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVx0ZWxlbWFya2V0aW5nLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/Views/Home/training.cshtml]
+[C:/Users/ashha/OneDrive/Desktop/merge/Views/Home/training.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVx0cmFpbmluZy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/Views/Home/webdevelopment.cshtml]
+[C:/Users/ashha/OneDrive/Desktop/merge/Views/Home/webdevelopment.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVx3ZWJkZXZlbG9wbWVudC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/Views/Service/AddService.cshtml]
+[C:/Users/ashha/OneDrive/Desktop/merge/Views/Service/AddService.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljZVxBZGRTZXJ2aWNlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/Views/Service/FetchServices.cshtml]
+[C:/Users/ashha/OneDrive/Desktop/merge/Views/Service/FetchServices.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljZVxGZXRjaFNlcnZpY2VzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/Views/Shared/Error.cshtml]
+[C:/Users/ashha/OneDrive/Desktop/merge/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/Views/Shared/_Layout1.cshtml]
+[C:/Users/ashha/OneDrive/Desktop/merge/Views/Shared/_Layout1.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQxLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/Views/Shared/_LoginPartial.cshtml]
+[C:/Users/ashha/OneDrive/Desktop/merge/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/ashha/OneDrive/Desktop/merge/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/Views/_ViewImports.cshtml]
+[C:/Users/ashha/OneDrive/Desktop/merge/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/Views/_ViewStart.cshtml]
+[C:/Users/ashha/OneDrive/Desktop/merge/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/dm/Views/Shared/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = ZG1cVmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = b-t1psbkndj2
-
-[C:/Users/Huzaifa/Desktop/WEB/C\#/dm/Views/Shared/_Layout.cshtml]
+[C:/Users/ashha/OneDrive/Desktop/merge/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-wefh318zgm
